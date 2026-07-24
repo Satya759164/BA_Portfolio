@@ -1,61 +1,57 @@
-# Customer Ticket Management System (CTMS)
+# 👋 Hi, I'm Shivani
 
-## 📌 Project Overview
+Welcome to my Business Analyst Portfolio.
 
-The Customer Ticket Management System (CTMS) is a Business Analyst case study designed to improve customer support operations by replacing manual ticket handling with a centralized ticket management solution.
-
----
-
-## 🎯 Business Problem
-
-Customer complaints were received through emails, phone calls, and WhatsApp. The support team tracked tickets manually using Excel sheets, leading to delayed responses, duplicate tickets, and limited visibility into support operations.
+I'm an aspiring Business Analyst passionate about transforming business problems into structured, technology-driven solutions through requirement analysis, documentation, and process improvement.
 
 ---
 
-## 💼 Business Objective
+# 👩‍💼 Skills
 
-- Centralize ticket management
-- Automate ticket assignment
-- Improve customer satisfaction
-- Enable SLA tracking
-- Provide reporting dashboards
-
----
-
-## 👨‍💼 My Role
-
-As the Business Analyst, I:
-
-- Gathered and analyzed business requirements
-- Prepared the Business Requirements Document (BRD)
-- Defined Functional and Non-Functional Requirements
-- Performed AS-IS and TO-BE analysis
-- Identified stakeholders and user roles
-- Documented business processes
-
----
-
-## 📄 Deliverables
-
-- Business Requirement Document (BRD)
-- Functional Requirements
-- Non-Functional Requirements
-- AS-IS & TO-BE Analysis
-- Stakeholder Analysis
-- Context Diagram
-- Use Case Diagram
-- Timeline & KPIs
-
----
-
-## 🛠 Tools Used
-
-- Microsoft Word
-- Microsoft Excel
+- Business Requirement Documentation (BRD)
+- Functional Requirement Documentation (FRD)
+- User Stories
+- Acceptance Criteria
+- Requirement Gathering
+- Process Analysis
+- SQL
+- Excel
 - Draw.io
 
 ---
 
-## 📎 Project Documents
+# 📂 Portfolio Projects
 
-- CTMS_BRD.pdf
+## 📌 Customer Ticket Management System (CTMS)
+
+A complete Business Analysis case study demonstrating end-to-end business analysis documentation.
+
+### Deliverables
+
+- ✅ Business Requirement Document
+- ✅ Functional Requirements
+- ✅ Stakeholder Analysis
+- ✅ AS-IS & TO-BE Process
+- ✅ Context Diagram
+- ✅ Use Case Diagram
+- ✅ Risks & Assumptions
+- ✅ KPIs
+
+➡️ **Open the CTMS folder to explore the complete project.**
+
+---
+
+# 🛠️ Tools
+
+- Microsoft Word
+- Microsoft Excel
+- Draw.io
+- GitHub
+
+---
+
+# 📫 Contact
+
+**LinkedIn:** *(Add your LinkedIn URL)*
+
+**Email:** *(Add your email)*
