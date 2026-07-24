@@ -52,6 +52,6 @@ A complete Business Analysis case study demonstrating end-to-end business analys
 
 # 📫 Contact
 
-**LinkedIn:** *(Add your LinkedIn URL)*
+**LinkedIn:** *https://www.linkedin.com/in/shivani-pal-25268020a/*
 
-**Email:** *(Add your email)*
+**Email:** *shivanipal8630@gmail.com*
