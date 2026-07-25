@@ -182,7 +182,7 @@ The proposed process introduces a centralized ticket management system where cus
 
 The Context Diagram illustrates the interaction between external stakeholders and the Customer Ticket Management System.
 
-![Context Diagram](Diagrams/Context-Diagram.png)
+![Context Diagram](Diagrams/Screenshot (24).png)
 
 ---
 
