@@ -182,7 +182,7 @@ The proposed process introduces a centralized ticket management system where cus
 
 The Context Diagram illustrates the interaction between external stakeholders and the Customer Ticket Management System.
 
-![Context Diagram](Diagrams/Screenshot (24).png)
+![Context Diagram](CTMS/Diagrams/Screenshot (24).png)
 
 ---
 
@@ -190,7 +190,7 @@ The Context Diagram illustrates the interaction between external stakeholders an
 
 The Use Case Diagram represents the interactions between different users and the major functionalities of the Customer Ticket Management System.
 
-![Use Case Diagram](Diagrams/Use-Case-Diagram.png)
+![Use Case Diagram](CTMS/Diagrams/Screenshot (26).png)
 
 ---
 
