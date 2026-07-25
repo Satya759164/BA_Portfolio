@@ -2,7 +2,12 @@
 
 ## Business Analysis Case Study
 
-A comprehensive Business Analysis case study demonstrating the complete Software Development Life Cycle (SDLC) from requirement gathering to business documentation, process analysis, and solution design.
+> **Project Type:** Business Analysis Case Study  
+> **Domain:** Customer Support & Service Management  
+> **Methodology:** Waterfall  
+> **Tools Used:** Microsoft Word, Microsoft Excel, Miro, GitHub
+
+The Customer Ticket Management System (CTMS) is a Business Analysis case study developed to streamline customer support operations by replacing manual issue tracking with a centralized ticket management solution. The project demonstrates the complete Business Analysis lifecycle, including business process analysis, requirement documentation, stakeholder identification, and solution design.
 
 ---
 
@@ -13,9 +18,10 @@ A comprehensive Business Analysis case study demonstrating the complete Software
 - Business Objectives
 - Project Scope
 - Stakeholders
-- Business Requirements
-- Deliverables
+- Business Analysis Deliverables
+- Project Documentation
 - Process Analysis
+- System Diagrams
 - Tools Used
 - Business Value
 - Skills Demonstrated
@@ -24,180 +30,34 @@ A comprehensive Business Analysis case study demonstrating the complete Software
 
 # 📌 Project Overview
 
-The Customer Ticket Management System (CTMS) is a centralized platform designed to streamline customer issue tracking, ticket assignment, escalation management, and resolution processes.
+The Customer Ticket Management System (CTMS) is a centralized platform designed to manage customer support requests efficiently from ticket creation to issue resolution. The system improves communication between customers and support teams while providing better visibility into ticket status, assignment, escalation, and overall support performance.
 
-The solution aims to eliminate manual ticket handling, improve customer support efficiency, increase operational visibility, and enhance service quality through a structured ticket management workflow.
+This project focuses on understanding business needs, identifying process gaps, documenting requirements, and proposing a structured solution that enhances operational efficiency and customer satisfaction.
 
 ---
 
 # 🚩 Business Problem
 
-The organization was facing several operational challenges due to manual customer support processes.
+The organization was experiencing several challenges in managing customer complaints due to a manual support process.
 
 ### Existing Challenges
 
-- Customer complaints received through multiple communication channels
-- Manual ticket tracking using Excel spreadsheets
-- Lack of centralized visibility of customer issues
-- Delayed ticket assignment
-- Difficulty monitoring support team performance
-- Poor reporting capabilities
+- Customer issues were received through multiple communication channels.
+- Manual tracking of tickets using spreadsheets resulted in data inconsistency.
+- No centralized platform to monitor ticket status.
+- Delays in ticket assignment and issue resolution.
+- Limited visibility into support team performance.
+- Difficulty generating reports and monitoring KPIs.
 
 ---
 
 # 🎯 Business Objectives
 
-The proposed CTMS solution aims to:
+The proposed Customer Ticket Management System aims to:
 
-- Centralize customer ticket management
-- Automate ticket creation and assignment
-- Improve communication with customers
-- Enable escalation management
-- Improve response and resolution time
-- Provide analytical reporting and performance dashboards
-
----
-
-# 📌 Project Scope
-
-## In Scope
-
-- Customer Ticket Creation
-- Ticket Assignment
-- Ticket Status Tracking
-- Escalation Management
-- Notifications
-- Reporting Dashboard
-
-## Out of Scope
-
-- Payment Processing
-- AI Chatbot Integration
-- Live Chat Support
-- Social Media Integration
-
----
-
-# 👥 Stakeholders
-
-| Stakeholder | Responsibility |
-|------------|----------------|
-| Customer | Creates and tracks support tickets |
-| Support Agent | Resolves assigned tickets |
-| Support Manager | Monitors ticket performance |
-| Admin | Manages users and system settings |
-| Development Team | Builds the application |
-| QA Team | Validates system functionality |
-
----
-
-# 📑 Business Analysis Deliverables
-
-This project includes:
-
-- ✅ Business Requirement Document (BRD)
-- ✅ Functional Requirements
-- ✅ Non-Functional Requirements
-- ✅ Stakeholder Analysis
-- ✅ AS-IS Process Analysis
-- ✅ TO-BE Process Analysis
-- ✅ Context Diagram
-- ✅ Use Case Diagram
-- ✅ Risk Analysis
-- ✅ KPIs & Success Metrics
-
----
-
-# 📂 Project Documentation
-
-| Document | Status |
-|----------|--------|
-| Business Requirement Document | ✅ Completed |
-| Functional Requirements | ✅ Completed |
-| Stakeholder Analysis | ✅ Completed |
-| Process Analysis | ✅ Completed |
-| Context Diagram | ✅ Completed |
-| Use Case Diagram | ✅ Completed |
-
-> 📄 **Business Requirement Document:** `BRD/CTMS_BRD.pdf`
-
----
-
-# 🔄 Process Analysis
-
-The project includes:
-
-- AS-IS Process Analysis
-- TO-BE Process Analysis
-
-(Diagrams will be added here.)
-
----
-
-# 🛠️ Tools Used
-
-- Microsoft Word
-- Microsoft Excel
-- Miro
-- GitHub
-
----
-
-# 📈 Business Value
-
-The proposed solution is expected to:
-
-- Reduce ticket resolution time
-- Improve customer satisfaction
-- Increase operational transparency
-- Enhance support team productivity
-- Enable better business decision-making through reporting
-
----
-
-# 💼 Skills Demonstrated
-
-- Business Requirement Gathering
-- Business Process Analysis
-- BRD Preparation
-- Functional Requirement Documentation
-- Stakeholder Management
-- Process Mapping
-- Requirement Elicitation
-- Documentation
-- SDLC Understanding
-
----
-
-# 📌 Repository Structure
-
-```text
-CTMS
-│
-├── README.md
-├── BRD
-│   └── CTMS_BRD.pdf
-├── User-Stories
-├── Wireframes
-├── Process-Flows
-├── Diagrams
-└── Assets
-```
-
----
-
-## ⭐ Future Enhancements
-
-- Wireframes
-- User Stories
-- Acceptance Criteria
-- UI Screens
-- Process Flow Diagrams
-
----
-
-## 👩‍💼 Author
-
-**Shivani**
-
-Aspiring Business Analyst
+- Centralize customer ticket management.
+- Automate ticket creation and assignment.
+- Improve communication between customers and support teams.
+- Reduce ticket response and resolution time.
+- Enable escalation management.
+- Provide reporting and performance monitoring through KPIs.
