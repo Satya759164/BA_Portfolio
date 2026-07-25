@@ -1,229 +1,203 @@
-# Business-Analyst-Portfolio
-Business Analyst Portfolio showcasing BRDs, process analysis, requirements documentation, SQL, Excel dashboards, and case studies.
+# 📌 Customer Ticket Management System (CTMS)
 
+## Business Analysis Case Study
 
-# Customer Ticket Management System (CTMS)
+A comprehensive Business Analysis case study demonstrating the complete Software Development Life Cycle (SDLC) from requirement gathering to business documentation, process analysis, and solution design.
 
-## Business Analyst Portfolio Project
+---
 
-## Project Overview
+# 📖 Table of Contents
+
+- Project Overview
+- Business Problem
+- Business Objectives
+- Project Scope
+- Stakeholders
+- Business Requirements
+- Deliverables
+- Process Analysis
+- Tools Used
+- Business Value
+- Skills Demonstrated
+
+---
+
+# 📌 Project Overview
 
 The Customer Ticket Management System (CTMS) is a centralized platform designed to streamline customer issue tracking, ticket assignment, escalation management, and resolution processes.
 
-The objective of this project is to improve customer support efficiency, reduce response time, provide better ticket visibility, and enable performance monitoring through structured reporting.
+The solution aims to eliminate manual ticket handling, improve customer support efficiency, increase operational visibility, and enhance service quality through a structured ticket management workflow.
 
 ---
 
-# Business Problem
+# 🚩 Business Problem
 
-The organization was facing challenges in managing customer complaints due to manual processes.
+The organization was facing several operational challenges due to manual customer support processes.
 
-Current challenges included:
+### Existing Challenges
 
-* Customer issues received through multiple channels
-* Manual ticket tracking using spreadsheets
-* Lack of centralized ticket visibility
-* Delays in ticket assignment
-* Difficulty monitoring support team performance
+- Customer complaints received through multiple communication channels
+- Manual ticket tracking using Excel spreadsheets
+- Lack of centralized visibility of customer issues
+- Delayed ticket assignment
+- Difficulty monitoring support team performance
+- Poor reporting capabilities
 
 ---
 
-# Business Objective
+# 🎯 Business Objectives
 
 The proposed CTMS solution aims to:
 
-* Create a centralized ticket management platform
-* Automate ticket creation and assignment
-* Improve customer communication through notifications
-* Enable escalation management
-* Provide reporting and performance insights
+- Centralize customer ticket management
+- Automate ticket creation and assignment
+- Improve communication with customers
+- Enable escalation management
+- Improve response and resolution time
+- Provide analytical reporting and performance dashboards
 
 ---
 
-# My Role: Business Analyst
-
-As a Business Analyst, I worked on:
-
-* Understanding business problems
-* Documenting business requirements
-* Performing AS-IS and TO-BE process analysis
-* Identifying stakeholders and user roles
-* Defining functional requirements
-* Defining non-functional requirements
-* Preparing business documentation
-
----
-
-# Stakeholders
-
-| Stakeholder      | Responsibility                                |
-| ---------------- | --------------------------------------------- |
-| Customers        | Raise tickets, track issues, provide feedback |
-| Support Agents   | Manage and resolve assigned tickets           |
-| Support Managers | Monitor operations and performance            |
-| Admin            | Manage users and system configuration         |
-| Development Team | Build and maintain the solution               |
-| QA Team          | Validate requirements and functionality       |
-
----
-
-# Project Scope
+# 📌 Project Scope
 
 ## In Scope
 
-* Ticket creation
-* Ticket assignment
-* Ticket tracking
-* Ticket status management
-* Escalation management
-* Reporting
-* Notifications
+- Customer Ticket Creation
+- Ticket Assignment
+- Ticket Status Tracking
+- Escalation Management
+- Notifications
+- Reporting Dashboard
 
 ## Out of Scope
 
-* Payment processing
-* Live chat support
-* AI chatbot implementation
-* Social media integration
+- Payment Processing
+- AI Chatbot Integration
+- Live Chat Support
+- Social Media Integration
 
 ---
 
-# Business Analysis Deliverables
+# 👥 Stakeholders
+
+| Stakeholder | Responsibility |
+|------------|----------------|
+| Customer | Creates and tracks support tickets |
+| Support Agent | Resolves assigned tickets |
+| Support Manager | Monitors ticket performance |
+| Admin | Manages users and system settings |
+| Development Team | Builds the application |
+| QA Team | Validates system functionality |
+
+---
+
+# 📑 Business Analysis Deliverables
 
 This project includes:
 
-✅ Business Requirement Document (BRD)
-
-✅ AS-IS Process Analysis
-
-✅ TO-BE Process Analysis
-
-✅ Functional Requirements
-
-✅ Non-Functional Requirements
-
-✅ Stakeholder Analysis
-
-✅ User Roles & Responsibilities
-
-✅ Use Case Diagram
-
-✅ Context Diagram
-
-✅ Risk & Dependency Analysis
-
-✅ Success Metrics / KPIs
+- ✅ Business Requirement Document (BRD)
+- ✅ Functional Requirements
+- ✅ Non-Functional Requirements
+- ✅ Stakeholder Analysis
+- ✅ AS-IS Process Analysis
+- ✅ TO-BE Process Analysis
+- ✅ Context Diagram
+- ✅ Use Case Diagram
+- ✅ Risk Analysis
+- ✅ KPIs & Success Metrics
 
 ---
 
-# Requirements Documentation
+# 📂 Project Documentation
 
-## Functional Requirements Examples
+| Document | Status |
+|----------|--------|
+| Business Requirement Document | ✅ Completed |
+| Functional Requirements | ✅ Completed |
+| Stakeholder Analysis | ✅ Completed |
+| Process Analysis | ✅ Completed |
+| Context Diagram | ✅ Completed |
+| Use Case Diagram | ✅ Completed |
 
-* Customers can create support tickets with issue details.
-* System generates unique ticket IDs.
-* Tickets can be assigned automatically or manually.
-* Users can track ticket status.
-* Managers can monitor ticket performance.
-
----
-
-## Non-Functional Requirements Examples
-
-* System should provide fast response time.
-* Role-based access control should be implemented.
-* User data should be protected.
-* System should support scalability and reliability.
+> 📄 **Business Requirement Document:** `BRD/CTMS_BRD.pdf`
 
 ---
 
-# Process Improvement
+# 🔄 Process Analysis
 
-## Current State (AS-IS)
+The project includes:
 
-Customer Issue
+- AS-IS Process Analysis
+- TO-BE Process Analysis
 
-↓
-
-Email / Calls / WhatsApp
-
-↓
-
-Manual Excel Tracking
-
-↓
-
-Manual Assignment
-
-↓
-
-Delayed Resolution
-
-## Future State (TO-BE)
-
-Customer Issue
-
-↓
-
-Ticket Creation
-
-↓
-
-Automatic Assignment
-
-↓
-
-Status Tracking
-
-↓
-
-Resolution & Feedback
+(Diagrams will be added here.)
 
 ---
 
-# Tools Used
+# 🛠️ Tools Used
 
-* MS Word
-* Excel
-* Draw.io
-* Documentation Techniques
-* Business Analysis Techniques
+- Microsoft Word
+- Microsoft Excel
+- Miro
+- GitHub
 
 ---
 
-# Repository Contents
+# 📈 Business Value
 
-```
-Customer-Ticket-Management-System
+The proposed solution is expected to:
 
+- Reduce ticket resolution time
+- Improve customer satisfaction
+- Increase operational transparency
+- Enhance support team productivity
+- Enable better business decision-making through reporting
+
+---
+
+# 💼 Skills Demonstrated
+
+- Business Requirement Gathering
+- Business Process Analysis
+- BRD Preparation
+- Functional Requirement Documentation
+- Stakeholder Management
+- Process Mapping
+- Requirement Elicitation
+- Documentation
+- SDLC Understanding
+
+---
+
+# 📌 Repository Structure
+
+```text
+CTMS
 │
+├── README.md
 ├── BRD
-│
-├── Functional Requirements
-│
-├── Process Flow
-│
+│   └── CTMS_BRD.pdf
+├── User-Stories
+├── Wireframes
+├── Process-Flows
 ├── Diagrams
-│
-├── UAT Documentation
-│
-└── Project Documentation
+└── Assets
 ```
 
 ---
 
-# Key Business Outcomes
+## ⭐ Future Enhancements
 
-Expected improvements:
-
-* Reduced ticket resolution time
-* Better customer experience
-* Improved operational visibility
-* Better support team performance tracking
-* Scalable ticket management process
+- Wireframes
+- User Stories
+- Acceptance Criteria
+- UI Screens
+- Process Flow Diagrams
 
 ---
 
-# Project Documentation
+## 👩‍💼 Author
 
-Detailed documentation is available in the project folders.
+**Shivani**
+
+Aspiring Business Analyst
