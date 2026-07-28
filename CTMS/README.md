@@ -223,13 +223,12 @@ CTMS
 │
 ├── README.md
 ├── BRD
-│   └── CTMS_BRD.pdf
-├── Process-Flows
-│   ├── AS-IS-Process.png
-│   └── TO-BE-Process.png
+│   ├── CTMS.pdf
+│   └── README.md
 ├── Diagrams
 │   ├── Context-Diagram.png
-│   └── Use-Case-Diagram.png
+│   ├── Use-Case-Diagram.png
+│   └── README.md
 └── Assets
 ```
 
