@@ -143,37 +143,23 @@ This project includes the following Business Analysis artifacts:
 
 # 🔄 Process Analysis
 
-The Customer Ticket Management System (CTMS) was designed after evaluating the existing customer support process and identifying opportunities for improvement. The proposed solution replaces manual ticket handling with a centralized system that improves efficiency, transparency, and customer satisfaction.
+The Customer Ticket Management System (CTMS) was developed after analyzing the existing customer support process and identifying opportunities for improvement.
 
-## Current Process (AS-IS)
+### Current Process (AS-IS)
 
-The existing process relied on emails, phone calls, and spreadsheets to manage customer issues. This manual approach resulted in delayed ticket assignment, limited visibility into ticket status, and difficulty monitoring support performance.
+The existing process relied on manual communication channels such as emails and phone calls to receive customer issues. Support teams tracked requests manually, resulting in delayed responses, limited visibility into ticket status, and difficulty monitoring overall performance.
 
-### AS-IS Process Flow
+### Proposed Process (TO-BE)
 
-![AS-IS Process](Process-Flows/AS-IS-Process.png)
+The proposed solution introduces a centralized ticket management system where customer issues are logged, assigned to support agents, tracked throughout their lifecycle, and escalated whenever required. This improves operational efficiency, transparency, and customer satisfaction.
 
----
-
-## Proposed Process (TO-BE)
-
-The proposed process introduces a centralized ticket management system where customer issues are logged, automatically assigned to support agents, tracked throughout their lifecycle, and escalated whenever required. This improves response time, operational efficiency, and overall customer experience.
-
-### TO-BE Process Flow
-
-![TO-BE Process](Process-Flows/TO-BE-Process.png)
-
----
-
-## Key Improvements
+### Key Improvements
 
 - Centralized ticket management
 - Automated ticket assignment
-- Real-time ticket tracking
-- Improved operational visibility
+- Improved ticket tracking
 - Faster issue resolution
-- Better reporting and performance monitoring
-
+- Better reporting and KPI monitoring
 ---
 
 # 📊 System Diagrams
