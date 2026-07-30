@@ -1,12 +1,10 @@
 # Aggregate Functions
 
-This section covers SQL aggregate functions used to perform calculations on multiple rows of data and return a single summarized result.
-
-Aggregate functions are widely used in business reporting, dashboards, and data analysis.
+This section demonstrates SQL aggregate functions used to summarize and analyze business data.
 
 ---
 
-# 📚 Topics Covered
+## Topics Covered
 
 - COUNT()
 - SUM()
@@ -16,26 +14,6 @@ Aggregate functions are widely used in business reporting, dashboards, and data 
 
 ---
 
-# 💼 Business Relevance
+## Business Relevance
 
-Business Analysts use aggregate functions to:
-
-- Count records
-- Calculate totals
-- Find averages
-- Identify minimum and maximum values
-- Generate business reports and KPIs
-
----
-
-# 🛠️ Tools Used
-
-- MySQL
-- SQL
-- GitHub
-
----
-
-# 🎯 Learning Outcome
-
-After completing this section, you will be able to summarize business data using SQL aggregate functions and generate meaningful insights for reporting and decision-making.
+Aggregate functions help Business Analysts calculate KPIs, summarize business data, and generate reports for decision-making.
