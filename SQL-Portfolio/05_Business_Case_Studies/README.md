@@ -1,19 +1,19 @@
 # Business Case Studies
 
-This section contains real-world SQL business scenarios designed to demonstrate practical problem-solving skills.
+This section contains practical SQL business scenarios demonstrating how SQL can be used to analyze business data and support decision-making.
 
 ---
 
 ## Case Studies
 
 - Customer Analysis
-- Sales Analysis
-- Employee Analysis
 - CTMS Ticket Analysis
 - Business Reporting
+- Sales Analysis
+- Employee Analysis
 
 ---
 
 ## Business Relevance
 
-These case studies showcase how SQL can be applied to solve business problems and support data-driven decision-making.
+These case studies demonstrate the practical application of SQL for reporting, business analysis, and operational decision-making.
