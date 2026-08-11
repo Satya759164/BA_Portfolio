@@ -238,7 +238,7 @@ CTMS
 
 **Shivani**
 
-Aspiring Business Analyst | Passionate about solving business problems through structured analysis, process improvement, and documentation.
+Business Analyst | Passionate about solving business problems through structured analysis, process improvement, and documentation.
 
 📧 **Email:** shivanipal8630@gmail.com
 
