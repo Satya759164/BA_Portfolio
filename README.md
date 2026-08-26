@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Shivani Pal
+# 👋 Hi, I'm Shivani Pal 
 
-## Aspiring Business Analyst
+## Business Analyst
 
 Welcome to my **Business Analyst Portfolio**, where I showcase real-world Business Analysis case studies, Agile documentation, and technical skills developed through hands-on projects.
 
