@@ -234,12 +234,13 @@ CTMS
 
 ---
 
-# 👩‍💼 Author
+## 👥 Project Contributors
 
-**Shivani**
+### Shivani Pal
+Business Analysis, Requirement Documentation, Process Analysis & Solution Design
 
-Business Analyst | Passionate about solving business problems through structured analysis, process improvement, and documentation.
+### Satyam Singh
+Requirement Analysis, AS-IS/TO-BE Process Analysis, Stakeholder Analysis & KPI Definition
+📧 **Email:** shivanipal8630@gmail.com | satyams0807@gmail.com
 
-📧 **Email:** shivanipal8630@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/shivani-pal-25268020a/
+💼 **LinkedIn:** https://www.linkedin.com/in/shivani-pal-25268020a/ | https://www.linkedin.com/in/satyam-singh-268b29258/
