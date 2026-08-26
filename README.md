@@ -1,27 +1,31 @@
-# 👋 Hi, I'm Shivani Pal 
+# 👋 Hi, I'm Satyam Singh
 
 ## Business Analyst
 
-Welcome to my **Business Analyst Portfolio**, where I showcase real-world Business Analysis case studies, Agile documentation, and technical skills developed through hands-on projects.
+Welcome to my **Business Analyst Portfolio**, where I showcase practical Business Analysis case studies, requirement documentation, process analysis, Agile practices, and data analysis projects.
 
-I am passionate about analyzing business problems, gathering requirements, documenting solutions, and collaborating with stakeholders to deliver value-driven products.
+I enjoy understanding business problems, analysing requirements, improving processes, and working with stakeholders to turn business needs into practical solutions.
 
 ---
 
-# 👩‍💼 Skills
+# 💼 Skills
 
 - Business Requirement Documentation (BRD)
-- Agile Requirement Documentation (ARD)
-- Functional Requirement Documentation (FRD)
+- Functional & Non-Functional Requirements
+- Requirement Gathering & Analysis
 - User Story Writing
 - Acceptance Criteria
-- Requirement Gathering & Elicitation
 - Stakeholder Analysis
-- Process Analysis
-- Agile Scrum
-- SQL
+- AS-IS & TO-BE Process Analysis
+- Business Process Improvement
+- Agile / Scrum
+- User Acceptance Testing (UAT)
+- Requirement Traceability Matrix (RTM)
+- SQL & Data Analysis
 - Microsoft Excel
+- Power BI
 - Draw.io
+- Miro
 - GitHub
 
 ---
@@ -30,7 +34,7 @@ I am passionate about analyzing business problems, gathering requirements, docum
 
 ## 📌 Customer Ticket Management System (CTMS) – Waterfall
 
-A comprehensive Business Analysis case study covering the complete Software Development Life Cycle (SDLC), from requirement gathering to business documentation and process analysis.
+A Business Analysis case study focused on analysing and improving a customer support process through a centralized ticket management solution.
 
 ### Key Deliverables
 
@@ -40,7 +44,7 @@ A comprehensive Business Analysis case study covering the complete Software Deve
 - ✅ AS-IS & TO-BE Process Analysis
 - ✅ Context Diagram
 - ✅ Use Case Diagram
-- ✅ Risk Analysis
+- ✅ Risk & Dependency Analysis
 - ✅ KPIs & Success Metrics
 
 📂 Explore the complete project in the **CTMS** folder.
@@ -49,7 +53,7 @@ A comprehensive Business Analysis case study covering the complete Software Deve
 
 ## 📌 Customer Ticket Management System (CTMS) – Agile
 
-An Agile Business Analysis case study demonstrating Scrum practices and Agile documentation for a Customer Ticket Management System.
+An Agile Business Analysis case study demonstrating how business requirements can be translated into user stories, acceptance criteria, backlog items, and UAT scenarios.
 
 ### Key Deliverables
 
@@ -70,10 +74,32 @@ An Agile Business Analysis case study demonstrating Scrum practices and Agile do
 
 ---
 
+## 📊 SQL Business Analysis Portfolio
+
+A collection of SQL-based analysis and business scenarios focused on data exploration, validation, querying, and extracting meaningful business insights.
+
+### Key Areas
+
+- ✅ Data Exploration
+- ✅ Data Validation
+- ✅ Filtering & Sorting
+- ✅ SQL Joins
+- ✅ Aggregations
+- ✅ GROUP BY & HAVING
+- ✅ CASE Statements
+- ✅ Business KPI Analysis
+- ✅ Trend & Exception Analysis
+
+📂 Explore the complete project in the **SQL-Portfolio** folder.
+
+---
+
 # 🛠️ Tools & Technologies
 
-- Microsoft Word
 - Microsoft Excel
+- SQL
+- Power BI
+- Microsoft Word
 - Draw.io
 - Miro
 - GitHub
@@ -86,13 +112,20 @@ An Agile Business Analysis case study demonstrating Scrum practices and Agile do
 - Power BI
 - Jira
 - Azure DevOps
+- Business Process Modelling
+
+---
+
+# 👥 Project Collaboration
+
+The CTMS case studies were developed collaboratively, with contributions across business requirement analysis, process mapping, stakeholder analysis, requirement documentation, Agile documentation, and KPI definition.
 
 ---
 
 # 📫 Contact
 
 **LinkedIn:**  
-https://www.linkedin.com/in/shivani-pal-25268020a/
+https://www.linkedin.com/in/satyam-singh-268b29258/
 
 **Email:**  
-shivanipal8630@gmail.com
+satyams0807@gmail.com
