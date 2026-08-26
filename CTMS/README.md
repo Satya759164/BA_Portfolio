@@ -242,6 +242,14 @@ Business Analysis, Requirement Documentation, Process Analysis & Solution Design
 ### Satyam Singh
 Requirement Analysis, AS-IS/TO-BE Process Analysis, Stakeholder Analysis & KPI Definition
 
+---
+
+## 🤝 Collaboration
+
+This case study was developed collaboratively, with contributions across
+business requirement analysis, process mapping, stakeholder analysis,
+requirement documentation and KPI definition.
+
 📧 **Email:** shivanipal8630@gmail.com | satyams0807@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/shivani-pal-25268020a/ | https://www.linkedin.com/in/satyam-singh-268b29258/
